@@ -8,6 +8,7 @@ Motherboard:		ASRock TRX40 Creator, BIOS 1.06
 Video:			Radeon VII in PCIe slot 1
 Memory:		G.Skill DDR4 Ripjaws-V 4x32GB 3200Mhz [F4-3200C16Q-128GVK]
 Power supply:		Corsair HX1200i
+Proxmox:        On external USB disk on port 15a
 
 # SW Config:
 Proxmox 6.2-1
