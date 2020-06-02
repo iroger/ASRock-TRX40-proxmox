@@ -6,9 +6,9 @@ I started this project based on the well known video on the Ultimate Hackintosh 
 ## HW Config:
 * Motherboard:		ASRock TRX40 Creator, BIOS 1.06
 * Video:			Radeon VII in PCIe slot 1
-* Memory:		G.Skill DDR4 Ripjaws-V 4x32GB 3200Mhz [F4-3200C16Q-128GVK]
-* Storage:  Corsair MP600 2TB NVME
-* Proxmox:        On external USB disk on port 15a
+* Memory:		    G.Skill DDR4 Ripjaws-V 4x32GB 3200Mhz [F4-3200C16Q-128GVK]
+* Storage:          Corsair MP600 2TB NVME
+* Proxmox:          On external USB disk on port 15a
 * Power supply:		Corsair HX1200i
 
 ## SW Config:
