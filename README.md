@@ -14,3 +14,8 @@ I started this project based on the well known video on the Ultimate Hackintosh 
 ## SW Config:
 * Proxmox 6.2-1
 * MacOs 10.15.5
+
+## ToDo:
+* Check grub setting video=vesafb:off,efifb:off
+* Check moving proxmox disc to ASMedia controller and pass other USB controllers
+
