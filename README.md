@@ -19,7 +19,8 @@ I started this project based on the well known video on the Ultimate Hackintosh 
 ## Done:
 * Check grub setting video=vesafb:off,efifb:off.  Doesn't seem to help with video error
 * Check moving proxmox disc to ASMedia controller and pass other USB controllers. Works, also passing USB controllers works but system locks up after reboot and needs power cycle to recover.
-* Swapped Wifi / BT for MacOS compatible one, airdrop/handoff/apple watch unlock all working
+* Swapped Wifi / BT for MacOS compatible one, airdrop/handoff/apple watch unlock all working. More details here: https://www.macos86.it/topic/2675-proxmox-ve-osx-guide-discussion/?do=findComment&comment=76704
+
 
 ## ToDo:
 * Fix Dr Debug 99 error on reboot when passing USB controllers to VM
