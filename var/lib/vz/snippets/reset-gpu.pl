@@ -22,7 +22,7 @@ if ($phase eq 'pre-start') {
     system("echo 0 > /sys/class/vtconsole/vtcon0/bind");
     system("echo 0 > /sys/class/vtconsole/vtcon1/bind");
     system("echo efi-framebuffer.0 > /sys/bus/platform/drivers/efi-framebuffer/unbind");
-    system("rtcwake -m mem -s 3");
+    system("rtcwake -m mem -s 4");
 
 } else {
     print "HOOK: got unknown phase '$phase'\n";
